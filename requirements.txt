@@ -4,4 +4,6 @@ scikit-learn
 keras
 keras-tuner
 tensorflow
-cv2
+opencv-python
+pillow
+streamlit-lottie
