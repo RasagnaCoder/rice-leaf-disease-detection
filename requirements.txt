@@ -6,4 +6,5 @@ keras-tuner
 tensorflow
 opencv-python
 pillow
+cv2
 streamlit-lottie
