@@ -1,7 +1,7 @@
 rice_leaf_diseases/
 augmented1_rice_leaf_diseases/
 rice_leaf_disease_model.h5
-rice_leaf_disease_model.keras
+
 venv/
 .venv/
 *.h5
